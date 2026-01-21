@@ -1,4 +1,4 @@
-# ⚡ Ola sou seja bem vindo ao DV.MARCOS 
+# ⚡ Ola sou seja bem , DV.MARCOS .
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=260&section=header&text=FULL%20STACK%20ENGINEER&fontSize=68&animation=twinkling&fontColor=00FF41&desc=Building%20Scalable%20Systems%20•%20Code%20%7C%20Infra%20%7C%20Cloud&descAlignY=62" />
@@ -10,14 +10,15 @@
 
 ---
 
-## 🧠 CORE_IDENTITY.exe
-
+## SOBRE 🧠 
+<h1>
 User: Marcos Douglas
 Role: Full Stack Engineer
 Experience: 5+ Years
 Focus: Next.js • Cloud • Infra • Performance
 Location: Sinop - MT | Brazil
 Status: OPERATIONAL
+</h1>
 ## 📊 LIVE_SYSTEM_STATS
 
 <p align="center">
