@@ -1,7 +1,7 @@
 # ⚡ Ola DV.MARCOS aqui !
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=260&section=header&text=FULL%20STACK%20ENGINEER&fontSize=68&animation=twinkling&fontColor=00FF41&desc=Building%20Scalable%20Systems%20•%20Code%20%7C%20Infra%20%7C%20Cloud&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=260&section=header&text=FULL%20STACK%20EDEVELOPER&fontSize=68&animation=twinkling&fontColor=00FF41&desc=Building%20Scalable%20Systems%20•%20Code%20%7C%20Infra%20%7C%20Cloud&descAlignY=62" />
 </div>
 
 <p align="center">
