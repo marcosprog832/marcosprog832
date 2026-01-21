@@ -1,9 +1,28 @@
-# ⚡ System.out.println("Olá, mundo!");
+# Olá! Eu sou o Marcos Douglas 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=MARCOS%20DOUGLAS&fontSize=80&fontAlignY=40&animation=twinkling&desc=Systems%20Developer%20|%20Full%20Stack&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70" />
 </div>
 
+### 💻 Sobre Mim
+Desenvolvedor de Sistemas focado em performance e experiência do usuário. Atualmente liderando projetos na **Hoffmann Soluções Tecnológicas**.
+
+- 🏗️ Desenvolvendo o marketplace **CONSTRUA.PRO**.
+- ✍️ Escrevendo um e-book sobre **JavaScript e Next.js**.
+- 📍 Sinop, Mato Grosso.
+
+### 🛠️ Minhas Tecnologias
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,react,php,tailwind,vercel,github,vscode" />
+  </a>
+</p>
+
+### 📈 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosprog832&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprog832&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+</p>
 ### 📡 Status do Sistema
 - **Atividade Principal:** Construindo o ecossistema **CONSTRUA.PRO**.
 - **Pesquisa & Desenvolvimento:** E-book especializado em **JavaScript e Next.js**.
