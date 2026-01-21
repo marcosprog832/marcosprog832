@@ -10,16 +10,16 @@
 
 ---
 
-## SOBRE 🧠 
-<h1>
-User: Marcos Douglas
-Role: Full Stack Engineer
+🧠 <h1>SOBRE</h1>
+<h3>
+User: Marcos Douglas<br>
+Role: Full Stack Engineer<br>
 Experience: 5+ Years
 Focus: Next.js • Cloud • Infra • Performance
-Location: Sinop - MT | Brazil
+Location: Sinop - MT | Brazil<br>
 Status: OPERATIONAL
-</h1>
-## 📊 LIVE_SYSTEM_STATS
+</h3>
+<h1>LIVE_SYSTEM_STATS</h1>
 
 <p align="center">
   <img src="https://stats-github-readme.vercel.app/api?username=marcosprog832&show_icons=true&theme=matrix&count_private=true" />
