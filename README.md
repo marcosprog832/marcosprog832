@@ -14,12 +14,16 @@
 <h3>
 User: Marcos Douglas<br>
 Role: Full Stack Engineer<br>
-Experience: 5+ Years
-Focus: Next.js • Cloud • Infra • Performance
+Experience: 5+ Years<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,react,php,tailwind,linux,docker,bash,powershell,github,vscode,figma,vercel&theme=dark" />
+  </a>
+</p>
 Location: Sinop - MT | Brazil<br>
 Status: OPERATIONAL
 </h3>
-<h1>LIVE_SYSTEM_STATS</h1>
+<h1>LIVE SYSTEM STATS</h1>
 
 <p align="center">
   <img src="https://stats-github-readme.vercel.app/api?username=marcosprog832&show_icons=true&theme=matrix&count_private=true" />
