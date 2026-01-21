@@ -11,12 +11,7 @@ Desenvolvedor de Sistemas focado em performance e experiência do usuário. Atua
 - ✍️ Escrevendo um e-book sobre **JavaScript e Next.js**.
 - 📍 Sinop, Mato Grosso.
 
-### 🛠️ Minhas Tecnologias
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,react,php,tailwind,vercel,github,vscode" />
-  </a>
-</p>
+>
 
 ### 📈 Estatísticas
 <p align="center">
