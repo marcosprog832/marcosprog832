@@ -15,14 +15,14 @@
 User: Marcos Douglas<br>
 Role: Full Stack Engineer<br>
 Experience: 5+ Years<br>
+Location: Sinop - MT | Brazil<br>
+Status: OPERATIONAL
+</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,react,php,tailwind,linux,docker,bash,powershell,github,vscode,figma,vercel&theme=dark" />
   </a>
 </p>
-Location: Sinop - MT | Brazil<br>
-Status: OPERATIONAL
-</h3>
 <h1>LIVE SYSTEM STATS</h1>
 
 <p align="center">
