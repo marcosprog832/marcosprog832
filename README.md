@@ -18,9 +18,21 @@ Experience: 5+ Years
 Focus: Next.js • Cloud • Infra • Performance
 Location: Sinop - MT | Brazil
 Status: OPERATIONAL
-🛠️ TECH_STACK.sys
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,nextjs,react,nodejs,php,tailwind,linux,docker,bash,github,vercel,vscode,figma&theme=dark" /> </p>
-📊 LIVE_SYSTEM_STATS
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosprog832&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true" /> </p> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprog832&layout=compact&langs_count=8&theme=matrix&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosprog832&theme=matrix&hide_border=true" /> </p>
-🛰️ SYSTEM_STATUS
-<p align="center"> <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" /> <img src="https://img.shields.io/badge/SYSTEM-STABLE-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/BUILD-AUTOMATED-black?style=for-the-badge" /> </p> 
+## 📊 LIVE_SYSTEM_STATS
+
+<p align="center">
+  <img src="https://stats-github-readme.vercel.app/api?username=marcosprog832&show_icons=true&theme=matrix&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=marcosprog832&layout=compact&theme=matrix" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marcosprog832&theme=matrix&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosprog832&theme=react-dark" />
+</p>
+
